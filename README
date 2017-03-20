@@ -2,7 +2,7 @@ This repository holds the Go Blog server code and content.
 
 To run the blog server locally:
 
-	go build -o blog.exe ./blog
-	./blog.exe
+	go build -o blog ./blog
+	./blog
 
 and then visit http://localhost:8080/.
